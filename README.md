@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C/C++, C#, HTML/CSS/JavaScript, MySQL
 - 💞️ I’m looking to collaborate on Learning...
-- 📫 How to reach me? Maybe there's Messaging on this loveley website :) ...
+- 📫 figurin contact out
 
 <!---
 ZainAlfil/ZainAlfil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
